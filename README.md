@@ -1,8 +1,8 @@
 # Angular-To-Do
 
-Hey everbody!
+Hey everybody!
 
-Today we'll be building a To Do List with AngularJS. To do lists are a great way to start with technolgies as they are simple, yet do require enough implementation to understand how the technoligies work.
+Today we'll be building a To Do List with AngularJS. To do lists are a great way to start with technologies as they are simple, yet do require enough implementation to understand how the technologies work.
 
 You should have a single input box and a single button, the button click should add the item in the input box to a list below.
 
